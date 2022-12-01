@@ -13,6 +13,7 @@ import arrow from '../assets/pngs/arrow.png';
 import edit from '../assets/pngs/edit.png';
 import point from '../assets/pngs/Point.png';
 import colors from './colors';
+import abc;
 
 export default {
   logo: logo,
